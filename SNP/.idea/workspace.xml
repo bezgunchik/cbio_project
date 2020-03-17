@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d248ac96-06c7-41ef-89d7-23f678b856f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCVRCqytgc0LDQKKRRtC9I6vhD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583681866018" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Matrix_management" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SNPsearcher" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SNPsearcher" />
+      <module name="SNP" />
+      <option name="PROGRAM_PARAMETERS" value="-r 200 -d 0.5 -s $PROJECT_DIR$/../../../roei/snps151_23_10_2019.tsv -b $PROJECT_DIR$/../../../roei/ilia/3_3_2020.tsv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d248ac96-06c7-41ef-89d7-23f678b856f5" name="Default Changelist" comment="" />
+      <created>1567947767660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567947767660</updated>
+      <workItem from="1567947770978" duration="40204000" />
+      <workItem from="1568546155823" duration="3317000" />
+      <workItem from="1568628006039" duration="612000" />
+      <workItem from="1568629597808" duration="272000" />
+      <workItem from="1568631112443" duration="1306000" />
+      <workItem from="1569144394971" duration="3770000" />
+      <workItem from="1569150784945" duration="9255000" />
+      <workItem from="1569237652748" duration="9712000" />
+      <workItem from="1569316205358" duration="6685000" />
+      <workItem from="1569485699719" duration="1288000" />
+      <workItem from="1570362986940" duration="836000" />
+      <workItem from="1570365044152" duration="9037000" />
+      <workItem from="1570443808664" duration="865000" />
+      <workItem from="1570450913428" duration="4025000" />
+      <workItem from="1570700704603" duration="1796000" />
+      <workItem from="1571731433431" duration="4703000" />
+      <workItem from="1571744365702" duration="2279000" />
+      <workItem from="1572184254449" duration="34000" />
+      <workItem from="1572184673854" duration="3000" />
+      <workItem from="1573984051269" duration="1950000" />
+      <workItem from="1574083140879" duration="646000" />
+      <workItem from="1576757060950" duration="1419000" />
+      <workItem from="1577367042362" duration="725000" />
+      <workItem from="1583065693714" duration="2327000" />
+      <workItem from="1583074665062" duration="1199000" />
+      <workItem from="1583233416100" duration="7760000" />
+      <workItem from="1583317696309" duration="770000" />
+      <workItem from="1583675449807" duration="5063000" />
+      <workItem from="1583850676763" duration="2223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="line" language="JAVA" />
+        <watch expression="totalCounter" language="JAVA" />
+        <watch expression="currentChr" language="JAVA" />
+        <watch expression="SNPs" language="JAVA" />
+        <watch expression="Integer.parseInt(line[1]) &lt;= (start - range)" language="JAVA" />
+        <watch expression="SNPs.get(CpG)" language="JAVA" />
+        <watch expression="counterblocks" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SNP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

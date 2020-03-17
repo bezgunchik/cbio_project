@@ -1,0 +1,58 @@
+===========================================================================================
+=                                             Project:                                    =
+===========================================================================================
+SNP searcher ???
+
+===========================================================================================
+=                                             Author:                                     =
+===========================================================================================
+Ilia Bezgin
+
+===========================================================================================
+=                                             Files:                                      =
+===========================================================================================
+SNPsearcher.java
+
+===========================================================================================
+=                                           Description:                                  =
+===========================================================================================
+
+Usage:
+    java -classpath [PATH TO THE DIR WITH SNPsearcher FILE]: SNPsearcher -b [BLOCK] -s [SNPDICT]
+-d [DELTA] -r [RANGE]
+    (Order of arguments could be changed).
+
+Example:
+    java -classpath /cs/cbio/ilia/project/SNP/out/production/SNP/: SNPsearcher -r 1000 -d 0.38
+-s /cs/zbio/ilia/snp151_11_9_2019.tsv -b /cs/cbio/ilia/Documents/colon_grans_Netanel_len7-300_th10-80_rl60.bed
+
+Program's input:
+    Args:
+        -b [BLOCK] Path to the blocks file* (.bet)
+        -s [SNPDICT] Path to a SNP dictionary file** (.tsv)
+        -d [DELTA] Frequency range from entropy maximum value
+        -r [RANGE] Searching range from the bounds
+
+    * - Blocks file must be a TSV file and in each row contain [Chromosome name] + TAB + [Block start] +
+TAB + [block end].
+    ** - SNP dictionary file must be a TSV file and each row should be of such format:
+[Chromosome name] + TAB + [SNP start] + TAB + [SNP end] + TAB + [SNP name] + TAB + [Strand] + TAB +
+[Major nucleotide] + TAB + [Minor nucleotide] + TAB + [Major nucleotide frequency]
+
+Program's output:
+    Currently there is only console output with:
+        - Number of blocks
+        - Total number of SNPs
+        - Maximal potential score
+
+Example:
+    ---
+
+===========================================================================================
+=                                      Special Comments:                                  =
+===========================================================================================
+No
+
+===========================================================================================
+=                                           Tests:                                        =
+===========================================================================================
