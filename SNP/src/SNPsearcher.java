@@ -77,8 +77,8 @@ public class SNPsearcher {
             } catch (java.io.IOException exp) {
                 System.out.println("Wrong file");
             }
-//            save_CpG_SNP_location();
-            SNPquality();
+            save_CpG_SNP_location();
+//            SNPquality();
                 // TODO: сравнить файлы с результатом (в этой папке и в ДАТА)
                 // TODO: сделать красвую диаграмму с расстояними между CpG и SNP
         }
@@ -90,10 +90,10 @@ public class SNPsearcher {
 
     private static void save_CpG_SNP_location() {
         try {
-            Path resultPath = Paths.get(System.getProperty("user.dir"), "/cpg_snp.csv");
+            Path resultPath = Paths.get(System.getProperty("user.dir"), "/cpg_snp_500_full.csv");
             PrintWriter out = new PrintWriter(resultPath.toString());
             for (String[] CpG : SNPs.keySet()) {
-                out.print(CpG[3] + "," + CpG[1] + "," + SNPs.get(CpG)[3] + "," +  SNPs.get(CpG)[1] + "\n");
+                out.print(CpG[3] + "," + CpG[1] + "," + SNPs.get(CpG)[3] + "," +  SNPs.get(CpG)[1] + "," + SNPs.get(CpG)[7] + "," + SNPs.get(CpG)[5] + "," + SNPs.get(CpG)[6] + "\n");
                 System.out.print(CpG[3] + "," + CpG[1] + "," + SNPs.get(CpG)[3] + "," +  SNPs.get(CpG)[1] + "\n");
             }
             out.close();

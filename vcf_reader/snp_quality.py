@@ -192,8 +192,8 @@ def stacked_bar(input_path):
     data['0-10%'] = (top_snps['50']['0-10%'] / 523 * 100.0, top_snps['100']['0-10%'] / 523 * 100.0, top_snps['200']['0-10%'] / 523 * 100.0, top_snps['500']['0-10%'] / 523 * 100.0)
     data['Missed'] = (top_snps['50']['Missed'] / 523 * 100.0, top_snps['100']['Missed'] / 523 * 100.0, top_snps['200']['Missed'] / 523 * 100.0, top_snps['500']['Missed'] / 523 * 100.0)
 
-    colors = plt.cm.get_cmap('viridis', 5).colors
-
+    # colors = plt.cm.get_cmap('viridis', 5).colors
+    colors = ['grey', 'grey','grey','grey']
 
     p1 = plt.bar(ind, data['40-50%'], 0.8, color=colors[0])
     p2 = plt.bar(ind, data['30-40%'], 0.8, bottom=np.array(data['40-50%']), color=colors[1])

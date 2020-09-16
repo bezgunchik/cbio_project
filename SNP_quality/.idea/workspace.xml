@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2109f4c0-7e1f-429f-be15-2246f34c0076" name="Default Changelist" comment="" />
+    <list default="true" id="2109f4c0-7e1f-429f-be15-2246f34c0076" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SNP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SNP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNP/out/production/SNP/SNPsearcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SNP/out/production/SNP/SNPsearcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNP/src/SNPsearcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SNP/src/SNPsearcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SNP/top_SNPs.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/../SNP/top_SNPs.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UYaiosPBdzipU8aREBSAvSf4Dx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../vcf_reader" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -80,11 +93,23 @@
       <workItem from="1583157870707" duration="605000" />
       <workItem from="1583233357248" duration="1238000" />
       <workItem from="1583317694891" duration="601000" />
+      <workItem from="1589223947015" duration="552000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
